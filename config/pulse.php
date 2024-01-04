@@ -128,11 +128,7 @@ return [
     */
 
     'recorders' => [
-
-        RocketLeagueWinsRecorder::class => [
-            
-        ],
-
+        
         Recorders\CacheInteractions::class => [
             'enabled' => env('PULSE_CACHE_INTERACTIONS_ENABLED', true),
             'sample_rate' => env('PULSE_CACHE_INTERACTIONS_SAMPLE_RATE', 1),

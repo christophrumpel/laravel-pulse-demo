@@ -1,8 +1,6 @@
 <x-pulse>
     <livewire:pulse.servers cols="full"/>
-
-    <livewire:pulse.test-pulse-card cols="6" rows="2"/>
-
+    
     <livewire:pulse.usage cols="6" rows="2"/>
 
     <livewire:pulse.queues cols="6"/>
