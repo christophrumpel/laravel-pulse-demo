@@ -1,7 +1,9 @@
 <x-pulse>
     <livewire:pulse.servers cols="full"/>
-    
-    <livewire:pulse.usage cols="6" rows="2"/>
+
+    <livewire:pulse.rocket-league-wins-card cols="6" rows="1"/>
+
+    <livewire:pulse.usage cols="6" rows="1"/>
 
     <livewire:pulse.queues cols="6"/>
 
